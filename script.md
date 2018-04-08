@@ -16,7 +16,8 @@ raw_data = document.body.querySelector('pre').innerHTML
 data = JSON.parse(raw_data.substring(22))
 content = ''
 data.payload.value.forEach(post => {
-  content += `\n1. [${post.title}](https://medium.com/@${author_name}/${post.slug})`
+  content += `\n1. [${post.title}](https://medium.com/@${author_name}/${post.slug}-${post.postId})`
 })
-
+console.log(content)
+copy(content)
 ```
