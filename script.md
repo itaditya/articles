@@ -15,8 +15,10 @@ author_name = 'adityaa803'
 raw_data = document.body.querySelector('pre').innerHTML
 data = JSON.parse(raw_data.substring(22))
 content = ''
-data.payload.value.forEach(post => {
-  content += `\n1. [${post.title}](https://medium.com/@${author_name}/${post.slug}-${post.postId})`
+posts = data.payload.value
+posts.sort((a, b) => b.views - a.views)
+posts.forEach(post => {
+  content += `\n\n1. [${post.title}](https://medium.com/@${author_name}/${post.slug}-${post.postId})`
 })
 console.log(content)
 copy(content)
