@@ -8,22 +8,23 @@
 
 ## Medium
 
+
 1. [How to escape async/await hell](https://medium.com/@adityaa803/avoiding-the-async-await-hell-c77a0fb71c4c)
 
 1. [Understanding React Render Props and HOC](https://medium.com/@adityaa803/understanding-react-render-props-and-hoc-b37a9576e196)
 
-1. [Understand the Factory Design Pattern in plain javascript](https://medium.com/@adityaa803/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd)
-
-1. [Things I wish I new before I started working with Mongodb](https://medium.com/@adityaa803/things-i-wish-i-new-before-i-started-working-with-mongodb-c089d4b593db)
+1. [Simple Code Reuse with React Hooks](https://medium.com/@adityaa803/simple-code-reuse-with-react-hooks-432f390696bf)
 
 1. [Structuring a React Project - a Definitive Guide](https://medium.com/@adityaa803/structuring-a-react-project-a-definitive-guide-ac9a754df5eb)
 
 1. [Quick guide to React compound components](https://medium.com/@adityaa803/guide-to-react-compound-components-9c4b3eb482e9)
 
-1. [How to deploy Webpack &amp; Node based app to Heroku](https://medium.com/@adityaa803/how-to-deploy-webpack-node-based-app-to-heroku-f55437602a3e)
+1. [Interview with a Web Developer of an Indian Unicorn](https://medium.com/@adityaa803/interview-with-a-paytm-web-developer-a02739454c4a)
 
-1. [Feature Flags, what are they and why should I care ?](https://medium.com/@adityaa803/feature-flags-what-are-they-and-why-should-i-care-a9cf434ffdfc)
+1. [React Custom Hooks and the death of Render Props](https://medium.com/@adityaa803/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f)
 
-1. [Components in Javascript](https://medium.com/@adityaa803/components-in-javascript-1f5c66042fa5)
+1. [Build and Test Sliders with React Hooks](https://medium.com/@adityaa803/build-and-test-sliders-with-react-hooks-38aaa9422772)
 
-1. [WTH is a Go receiver function](https://medium.com/@adityaa803/wth-is-a-go-receiver-function-84da20653ca2)
+1. [Interactive Text Animation with React Hooks](https://medium.com/@adityaa803/interactive-text-animation-with-react-hooks-f89820af8301)
+
+1. [Ideal boilerplate for reusable React components](https://medium.com/@adityaa803/ideal-boilerplate-for-reusable-react-components-35b72c0d1b11)
